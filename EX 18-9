@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV của tôi</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="cv-container">
+    <header>
+      <h1>Phan Minh Ngoc</h1>
+      <p>Frontend Developer | Hà Nội, Việt Nam</p>
+      <p>Email: aquaphan23012005@email.com | SĐT: 0123 456 789</p>
+    </header>
+    <section>
+      <h2>Giới thiệu</h2>
+      <p>Tôi là một lập trình viên đam mê công nghệ, với kinh nghiệm trong việc xây dựng giao diện web hiện đại và thân thiện với người dùng.</p>
+    </section>
+    <section>
+      <h2>Kinh nghiệm làm việc</h2>
+      <ul>
+        <li>
+          <strong>Công ty ABC</strong> (2020 - 2023)
+          <p>Vị trí: Frontend Developer</p>
+          <p>Phát triển và tối ưu hóa giao diện người dùng cho các dự án lớn.</p>
+        </li>
+        <li>
+          <strong>Công ty XYZ</strong> (2018 - 2020)
+          <p>Vị trí: Web Designer</p>
+          <p>Thiết kế giao diện và cải thiện trải nghiệm người dùng.</p>
+        </li>
+      </ul>
+    </section>
+    <section>
+      <h2>Kỹ năng</h2>
+      <ul>
+        <li>HTML, CSS, JavaScript</li>
+        <li>React, Vue.js</li>
+        <li>Thiết kế giao diện người dùng (UI/UX)</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Học vấn</h2>
+      <p>Đại học Công nghệ Thông tin - Hà Nội (2014 - 2018)</p>
+    </section>
+  </div>
+</body>
+</html>
